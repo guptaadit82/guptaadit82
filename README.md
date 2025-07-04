@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Testing Using Ai Tools ](https://github.com/guptaadit82/PaymentGateway)
+- 🔭 I’m currently working on [Testing Using Ai Tools ](https://github.com/guptaadit82/AI-Automation-Performance)
 
 - 🌱 I’m currently learning **Testing & Data Analytics**
 
-- 👯 I’m looking to collaborate on [Ecommerce Automation](https://github.com/guptaadit82/YUKO_BANK)
+- 👯 I’m looking to collaborate on [Ecommerce Automation](https://github.com/guptaadit82/karate-demoleaf-ecommerce)
 
-- 🤝 I’m looking for help with [Ai/Ml testing ](https://github.com/guptaadit82/PaymentGateway)
+- 🤝 I’m looking for help with [Ai/Ml testing ](https://github.com/guptaadit82/AI-Automation-Performance)
 
 - 👨‍💻 All of my projects are available at [https://github.com/guptaadit82](https://github.com/guptaadit82)
 
