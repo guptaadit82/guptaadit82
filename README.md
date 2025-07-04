@@ -1,23 +1,23 @@
 
 <h1 align="center">Hi 👋, I am ADITYA NARAYAN GUPTA</h1>
-<h3 align="center">A passionate MERN developer And Ml enthusiast</h3>
+<h3 align="center">A Professional Software Development Engineer in Test  And Ml enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaadit82&label=Profile%20views&color=0e75b6&style=flat" alt="guptaadit82" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Payement Gateway](https://github.com/guptaadit82/PaymentGateway)
+- 🔭 I’m currently working on [Testing Using Ai Tools ](https://github.com/guptaadit82/PaymentGateway)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Testing & Data Analytics**
 
-- 👯 I’m looking to collaborate on [YUKO_BANK](https://github.com/guptaadit82/YUKO_BANK)
+- 👯 I’m looking to collaborate on [Ecommerce Automation](https://github.com/guptaadit82/YUKO_BANK)
 
-- 🤝 I’m looking for help with [Payment Gateway](https://github.com/guptaadit82/PaymentGateway)
+- 🤝 I’m looking for help with [Ai/Ml testing ](https://github.com/guptaadit82/PaymentGateway)
 
 - 👨‍💻 All of my projects are available at [https://github.com/guptaadit82](https://github.com/guptaadit82)
 
-- 💬 Ask me about **react,express,python**
+- 💬 Ask me about **Automation,Performance,Java,python**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1a8FjUuEkJzbhsoXfAt6IugyerxeFbMwB/view?usp=share_link](https://drive.google.com/file/d/1a8FjUuEkJzbhsoXfAt6IugyerxeFbMwB/view?usp=share_link)
 
