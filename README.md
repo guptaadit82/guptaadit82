@@ -1,38 +1,170 @@
-<h1 align="center">Hi 👋, I am ADITYA NARAYAN GUPTA</h1>
-<h3 align="center">A Professional Software Development Engineer in Test  And Ml enthusiast</h3>
+<h1 align="center">Hi 👋, I am ADITYA GUPTA</h1>
+<h3 align="center">AI-Augmented SDET | LLM Testing | RAG Evaluation | Full-Stack QA Engineering</h3>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaadit82&label=Profile%20views&color=0e75b6&style=flat" alt="guptaadit82" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaadit82&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Testing Using Ai Tools ](https://github.com/guptaadit82/AI-Automation-Performance)
+## 🚀 About Me  
 
-- 🌱 I’m currently learning **Testing & Data Analytics**
+- 🔹 AI-Augmented **Software Development Engineer in Test (SDET)** with **1.5+ years experience**  
+- 🔹 Specialized in **LLM Testing, RAG Pipeline Validation, Full-Stack Automation & Performance Engineering**  
+- 🔹 Building **AI-first QA ecosystems** integrating UI + API + Data + AI + Performance + Chaos Testing  
+- 🔹 Strong focus on **model evaluation, system reliability, and scalable test architecture**
 
-- 👯 I’m looking to collaborate on [Ecommerce Automation](https://github.com/guptaadit82/karate-demoleaf-ecommerce)
+---
 
-- 🤝 I’m looking for help with [Ai/Ml testing ](https://github.com/guptaadit82/AI-Automation-Performance)
+## 🧠 What Makes Me Different  
 
-- 👨‍💻 All of my projects are available at [https://github.com/guptaadit82](https://github.com/guptaadit82)
+✔️ LLM + RAG Testing (not just traditional QA)  
+✔️ Prompt Injection & Adversarial Testing  
+✔️ AI Output Evaluation (RAGAS, DeepEval)  
+✔️ Contract Testing across microservices (Pact)  
+✔️ Full-stack QA (UI + API + Data + Infra + AI)  
 
-- 💬 Ask me about **Automation,Performance,Java,python**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a8FjUuEkJzbhsoXfAt6IugyerxeFbMwB/view?usp=share_link](https://drive.google.com/file/d/1a8FjUuEkJzbhsoXfAt6IugyerxeFbMwB/view?usp=share_link)
+## 🔭 Current Focus  
 
-- ⚡ Fun fact **Let's Find Out**
+- 🤖 AI Testing Frameworks →  
+  [AI Automation & Performance](https://github.com/guptaadit82/AI-Automation-Performance)
 
-<h3 align="left">Connect with me:</h3>
+- 🧠 Working on:
+  - LLM Evaluation Pipelines  
+  - RAG Testing Systems  
+  - AI-based Test Optimization  
+  - Chaos + Performance Engineering  
+
+---
+
+## 🧩 Real-World Engineering Work  
+
+✔️ Architected **Cypress frameworks** for LLM chatbot & search systems (multi-turn testing)  
+✔️ Built **Karate DSL frameworks (1000+ APIs)** with BDD + contract testing  
+✔️ Designed **Prompt Injection Testing frameworks** for AI safety validation  
+✔️ Engineered **RAG pipeline testing** (retrieval, embeddings, context relevance)  
+✔️ Built **LLM evaluation systems** (hallucination, drift, benchmarking)  
+✔️ Developed **hybrid UI + API automation** for distributed data pipelines  
+✔️ Executed **distributed performance testing (500+ users)**  
+✔️ Implemented **Chaos Engineering on Kubernetes with AIOps monitoring**  
+
+---
+
+## 🤖 AI & LLM Testing Expertise  
+
+- 🔹 Prompt Injection & Jailbreak Testing  
+- 🔹 Hallucination Detection & AI Output Scoring  
+- 🔹 RAG Evaluation (RAGAS, DeepEval)  
+- 🔹 Data Drift & Context Relevance Testing  
+- 🔹 Semantic Search Validation  
+- 🔹 Model Benchmarking & Regression Testing  
+- 🔹 LLM CI/CD Pipelines  
+
+---
+
+## ⚙️ Key Projects  
+
+### 🔹 LLM & RAG Testing Framework  
+- Built evaluation pipelines for:
+  - Hallucination detection  
+  - Context relevance  
+  - Embedding quality  
+- Integrated **RAGAS + DeepEval** into CI/CD  
+- Enabled automated model regression tracking  
+
+---
+
+### 🔹 API Contract & Integration Testing  
+- Karate DSL framework for **1000+ APIs**  
+- Implemented **Contract Testing (Pact)**  
+- Parallel execution on Kubernetes  
+- Ensured cross-service reliability  
+
+---
+
+### 🔹 Performance & Chaos Engineering  
+- Distributed testing (JMeter, NeoLoad, GenAI-PT)  
+- 500+ concurrent users simulation  
+- Chaos testing for microservices  
+- AIOps monitoring (Dynatrace, Datadog)  
+
+---
+
+## 📊 Impact & Achievements  
+
+- 🚀 100% Automation of critical flows  
+- 📉 ~40% reduction in regression effort  
+- ⚡ ~30% improvement in system performance  
+- 🔍 ~30% reduction in production data defects  
+- 💰 ~$10K cost savings using AI-driven QA  
+- 🏆 Shooting Star Award (2025–26)  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔹 AI & LLM Testing  
+LLM Testing • RAG Testing • Prompt Injection • RAGAS • DeepEval • AI Evaluation  
+
+### 🔹 Automation  
+Cypress • Karate DSL • Selenium • BDD • REST API • GraphQL • Pact  
+
+### 🔹 Performance  
+JMeter • NeoLoad • GenAI-PT • Chaos Engineering  
+
+### 🔹 Programming  
+JavaScript • TypeScript • Java • Python • SQL  
+
+### 🔹 DevOps & Infra  
+Docker • Kubernetes • GitHub Actions • Jenkins • Azure DevOps  
+
+### 🔹 Observability  
+Dynatrace • Datadog • AIOps • Distributed Tracing  
+
+---
+
+## 🌱 Currently Learning  
+
+- 🔹 Advanced **AI Testing & Autonomous QA Systems**  
+- 🔹 Scalable **Kubernetes-based Test Infrastructure**  
+- 🔹 Data + AI Observability  
+
+---
+
+## 🤝 Collaboration  
+
+- 🤖 AI Testing Frameworks  
+- 🛒 Ecommerce Automation Systems  
+- ⚙️ Full-stack QA platforms  
+
+---
+
+## 🌐 Connect with Me  
+
 <p align="left">
-<a href="https://linkedin.com/in/aditya-narayan-gupta-006623209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-narayan-gupta-006623209" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adit_40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adit_40" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-narayan-gupta-006623209" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/adit_40" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptaadit82&show_icons=true&locale=en&layout=compact" alt="guptaadit82" /></p>
+## 📄 Resume  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptaadit82&show_icons=true&locale=en" alt="guptaadit82" /></p>
+📌 [View My Resume](https://drive.google.com/file/d/1a8FjUuEkJzbhsoXfAt6IugyerxeFbMwB/view?usp=share_link)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaadit82&" alt="guptaadit82" /></p>
+---
+
+## 📊 GitHub Stats  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptaadit82&show_icons=true&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptaadit82&show_icons=true" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaadit82" /></p>
