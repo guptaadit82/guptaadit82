@@ -1,17 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI-Augmented%20SDET%20%7C%20LLM%20Testing%20%7C%20Quality%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+AI-Augmented+SDET+%7C+1.5%2B+Years+Experience;🧪+LLM+%2B+RAG+Pipeline+Testing+Specialist;⚡+Cypress+%7C+Karate+DSL+%7C+JMeter+%7C+Python;🔬+Prompt+Injection+%26+Adversarial+Testing;🏆+Shooting+Star+Award+2025-26" alt="Typing SVG" />
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=header&text=Aditya%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI-Augmented%20SDET%20%7C%20LLM%20Testing%20%7C%20Quality%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gupta-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gupta-006623209)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guptaadit82)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaadit82@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Noida,_India-FF6B6B?style=for-the-badge)](https://www.google.com/maps/place/Noida)
@@ -321,7 +315,7 @@ RAGAS / DeepEval          ████████████████      
 
 **Open to:** SDET Roles | QA Automation | AI/LLM Testing | Performance Engineering
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gupta-)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gupta-006623209)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaadit82@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guptaadit82)
 
