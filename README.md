@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI-Augmented%20SDET%20%7C%20LLM%20Testing%20%7C%20Quality%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI-Augmented%20SDET%20%7C%20LLM%20Testing%20%7C%20Performance%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <br/>
 
 <!-- Social Badges -->
