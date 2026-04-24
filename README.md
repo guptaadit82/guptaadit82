@@ -33,7 +33,7 @@ Company   : LTM Limited, Noida
 Focus     : LLM Testing | RAG Pipelines | Performance Engineering
 Education : B.Tech Data Science | NIET Noida | CGPA 8.5/10
 Portfolio : https://guptaadit82.github.io
-Phone     : +91 8873606023
+
 ```
 
 > 🚀 **AI-Augmented SDET** delivering high-coverage, low-leakage quality systems through **Generative AI**, **Prompt Injection Testing**, **Model Evaluation (RAGAS/DeepEval)**, and **Contract Testing** in CI/CD-integrated pipelines — driving measurable gains in quality, efficiency, and system resilience.
